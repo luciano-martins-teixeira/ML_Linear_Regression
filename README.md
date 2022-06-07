@@ -7,4 +7,4 @@ Ordinary least squares Linear Regression.
 
 >> Library Scikit-learn
 
->> Data science class by Alura
+>> by Alura classes
